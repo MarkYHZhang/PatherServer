@@ -5,7 +5,7 @@ The server side companion for Project Pather.
 https://github.com/MarkYHZhang/ProjectPatherClient
 
 ### Video Demonstration
-[![Project Pather Video Demonstration](https://img.youtube.com/vi/mLWCEoHNXlc/0.jpg)](https://www.youtube.com/watch?v=mLWCEoHNXlc)
+[![Project Pather Video Demonstration](https://img.youtube.com/vi/mLWCEoHNXlc/1.jpg)](https://www.youtube.com/embed/mLWCEoHNXlc)
 
 ### Additional Info
 - Completely custom graphics engine
